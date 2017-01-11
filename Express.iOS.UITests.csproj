@@ -48,7 +48,7 @@
       <HintPath>packages\SpecFlow.2.1.0\lib\net45\TechTalk.SpecFlow.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>packages\NUnit.3.0.0\lib\net45\nunit.framework.dll</HintPath>
+      <HintPath>packages\NUnit.2.6.4\lib\nunit.framework.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
